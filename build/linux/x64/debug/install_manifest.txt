@@ -1,0 +1,12 @@
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/namer_101
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kevinglynn/flutter_app/namer_101/build/linux/x64/debug/bundle/data/flutter_assets/version.json
